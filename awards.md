@@ -21,3 +21,6 @@ My team was challenged to design an app that would encourage millennials to supp
 
 ## Valedictorian
 ![Valedictorian](../assets/img/valedictorian.png "Valedictorian")
+
+## AP Scholar with Honor
+![AP](../assets/img/AP.png "AP Scholar with Honor")
