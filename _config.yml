@@ -1,5 +1,7 @@
 title: 'Karan Sodhi'
 description: 'Ph.D. Student, Department of Computer Science, University of Illinois Urbana-Champaign (UIUC). <br /> Email: sodhi.karan@outlook.com'
+logo: /assets/img/logo.jpeg
 show_downloads: false
 google_analytics: 
 theme: jekyll-theme-minimal
+# remote_theme: mmistakes/hpstr-jekyll-theme
