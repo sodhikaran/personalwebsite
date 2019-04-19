@@ -23,4 +23,23 @@ Next up we have Mr. Krabs. Although most people think of him as a greedy penny-p
 
 Surprisingly, Plankton and I also share some similarities. Plankton may be an evil, sadistic, and egotistical monster whose only goal is to rule Bikini Bottom, but he is also the most determined person I have ever seen. Plankton must have tried to steal the Krabby Patty secret formula over a million time by now, but he still continues to try. Both Plankton and I never give up on our dreams no matter how hard they might be. However, I do hope I am more successful with my plans than he was. <br />
 
-Last but certainly not least, I relate to SpongeBob. What I love about SpongeBob is that he is pretty much always smiling even when he has a bad day, like his house being destroyed for the hundredth time. Similarly, I too try to have positive outlook on life even when things may look dire or bleak. Lastly, me and Spongebob share a common mortal enemy: cars. Let's just say both of us have crashed into our houses.
+Last but certainly not least, I relate to SpongeBob. What I love about SpongeBob is that he is pretty much always smiling even when he has a bad day, like his house being destroyed for the hundredth time. Similarly, I too try to have positive outlook on life even when things may look dire or bleak. Lastly, me and Spongebob share a common mortal enemy: cars. Let's just say both of us have crashed into our houses. <br />
+
+## A Letter of Appreciation to my Mom - April 11, 2019 
+Dear Mom, <br />
+
+As the flowers start to bloom and we welcome the warmth arrival of spring, I wanted to take some time to reflect on my future and past. I know the past few months have been very hectic. You drove me from state to state so we could visit as many colleges as we could, and once decisions came out, you meticulously helped me weigh out the pros and cons for each college. But most importantly you always told me to not to worry about getting accepted or rejected because in the end I will find a place right for me. This simple sentence helped me relieve a tremendous amount of stress. I just wanted to say thank you for supporting and encouraging me throughout the college application process. I know I wouldn't have been as successful I was without you. <br />
+
+In less than five months, I am going to embark on a terrifying journey. I’m going to leave home and go to The University of Illinois which is 500 miles away. I have never even been away from you, Dad, and Natish for let alone one week so I can’t imagine how it will feel to be gone for months on end. Something I know I will miss everyday is your amazing cooking. Thank You so much for making food that is better than anything you could find in a restaurant. I am probably going to be daydreaming about dal makhani, kadhi chawal, and khichdi while I’m eating dorm food that tastes like cardboard. <br />
+
+But more than your cooking, what I’m really going to miss is just having you by my side. I still remember you agreeing to let me skip preschool so we could go to the library and read instead. And of course, I can never forget all of our trips to Panera Bread so I could bite into a bagel to loosen my baby teeth. You taught me right from wrong and always made sure I knew I was loved and I cannot even imagine the countless hours you spent taking care of me and just being a great friend.   <br />
+
+Mom, I can’t thank you enough for all that you did and continue to do for me, from changing my diapers to pushing me to always to work hard in everything I do. I know we are both going to be sad when I leave for Illinois, but as you always say, everything will work out in the end.  <br />
+
+Sincerely, <br />
+
+
+
+Karan Sodhi
+
+P.S. I promise to call you often.
