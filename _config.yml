@@ -4,4 +4,5 @@ logo: /assets/img/logo.jpeg
 show_downloads: false
 google_analytics: 
 theme: jekyll-theme-minimal
+github: repository_url: http://example.com
 # remote_theme: mmistakes/hpstr-jekyll-theme
