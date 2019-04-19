@@ -18,3 +18,6 @@ My team was challenged to design an app that would encourage millennials to supp
 
 ## Perfect ACT Score
 ![ACT](../assets/img/ACT.png "Perfect ACT Letter")
+
+## Valedictorian
+![Valedictorian](../assets/img/valedictorian.png "Valedictorian")
