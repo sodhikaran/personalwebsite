@@ -17,7 +17,7 @@ permalink: /blog.html/
 ## Connection to Movie or TV Show - April 18, 2019 
 <br />
 <b>“You either die a SpongeBob or live long enough to see yourself become a Squidward” </b> <br />
-The TV show I can most relate to is by far SpongeBob Squarepants. No, it’s not because I’m a talking fish, but instead, it’s because I feel that I embody certain traits from almost all characters in that show. For example, Squidward and I are both terrible clarinet players, but we continue to play because we share a love for music. Additionally, like Squidward, I value my alone time, although I don’t have to go through extreme measures like he does to get some peace and quiet (SpongeBob is probably the worst neighbor anyone could have). <br />
+The TV show I can most relate to is by far SpongeBob Squarepants. No, it’s not because I’m a talking fish, but instead, it’s because I feel that I embody certain traits from almost all characters in that show. For example, Squidward and I are both terrible clarinet players, but we continue to play because we share a love for music. Additionally, like Squidward, I value my alone time, although I don’t have to go through extreme measures like he does to get some peace and quiet. SpongeBob is probably the worst neighbor anyone could have. <br />
 
 Sandy Cheeks and I are also incredibly alike. We are both dedicated to positively influencing others; Sandy makes sure SpongeBob isn’t getting devoured by a bull worm, while I volunteer at the Dublin Food Pantry to make sure every member of our community has access to basic necessities. Both of us are also passionate about designing innovations that promote the common good. Sandy made a coconut milk powered car and I am developing an app that links volunteers with nonprofits. <br />
 
