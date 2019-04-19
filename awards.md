@@ -17,4 +17,4 @@ permalink: /awards.html/
 My team was challenged to design an app that would encourage millennials to support their local food banks. We came up with ideas like motivating users to donate food by distributing coupons for groceries, tracking how long each person spent volunteering so the top volunteers could win rewards, and using microtransactions in mini-games to let players donate to the food bank of their choice. I’m proud to say, out of 50 teams, we were one of the three finalists! 
 
 ## Perfect ACT Score
-![ACT](../assets/img/ACT.pdf "Perfect ACT Letter")
+![ACT](../assets/img/ACT.png "Perfect ACT Letter")
