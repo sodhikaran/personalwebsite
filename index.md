@@ -3,7 +3,7 @@ layout: default
 ---
 
 [Resume](./assets/docs/resume.pdf){: .btn}
-[LinkedIn](https://www.linkedin.com/in/karan-sodhi-481265160/)
+[LinkedIn](https://www.linkedin.com/in/karan-sodhi-481265160/){: .btn}
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Blog](./blog.md){: .btn}
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Awards](./awards.md){: .btn}
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Projects](./projects.md){: .btn}
