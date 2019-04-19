@@ -13,3 +13,5 @@ permalink: /awards.html/
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Extracurriculars](/extra-currics.md){: .btn}
 
 # Awards
+## Finalist for the [JPMorgan Code For Good Challenge](https://careers.jpmorgan.com/US/en/students/programs/code-for-good)
+My team was challenged to design an app that would encourage millennials to support their local food banks. We came up with ideas like motivating users to donate food by distributing coupons for groceries, tracking how long each person spent volunteering so the top volunteers could win rewards, and using microtransactions in mini-games to let players donate to the food bank of their choice. I’m proud to say, out of 50 teams, we were one of the three finalists! 
