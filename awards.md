@@ -26,3 +26,4 @@ My team was challenged to design an app that would encourage millennials to supp
 ![AP](../assets/img/AP.png "AP Scholar with Honor")
 
 ## [U.S. Presidential Scholars](https://www2.ed.gov/programs/psp/index.html) Candidate
+![Presidential Scholars](../assets/img/presidental.png "Presidential Scholars Candidate")
