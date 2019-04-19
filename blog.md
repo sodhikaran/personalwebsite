@@ -13,9 +13,7 @@ permalink: /blog.html/
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Extracurriculars](/extra-currics.md){: .btn}
 
 # Welcome to my Blog!
-
 ## Connection to Movie or TV Show - April 18, 2019 
-<br />
 <b>“You either die a SpongeBob or live long enough to see yourself become a Squidward” </b> <br />
 The TV show I can most relate to is by far SpongeBob Squarepants. No, it’s not because I’m a talking fish, but instead, it’s because I feel that I embody certain traits from almost all characters in that show. For example, Squidward and I are both terrible clarinet players, but we continue to play because we share a love for music. Additionally, like Squidward, I value my alone time, although I don’t have to go through extreme measures like he does to get some peace and quiet. SpongeBob is probably the worst neighbor anyone could have. <br />
 
