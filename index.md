@@ -3,15 +3,14 @@ layout: default
 ---
 
 [Resume](./assets/docs/resume.pdf){: .btn}
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Publications](./publications.md){: .btn}
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Blog](./blog.md){: .btn}
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Awards](./awards.md){: .btn}
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Projects](./projects.md){: .btn}
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Students](./students.md){: .btn}
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Extra-currics](./extra-currics.md){: .btn}
 
 # About Me
 
-I am a 2nd-year Ph.D. student working in Statistical Machine Learning. I am advised by [Prof. Sanmi Koyejo](http://sanmi.cs.illinois.edu/). Prior to joining the Ph.D. program, I worked at [Adobe Research, India](https://research.adobe.com/) for two years. I have pursued integrated masters in Mathematics and Scientific Computing from [IIT Kanpur](http://www.iitk.ac.in/), where I began my Machine Learning journey with [Prof. Harish Karnick](http://www.iitk.ac.in/new/dr-harish-karnick).
+I am a ...
 
 # Ph.D. Research Internships
 
