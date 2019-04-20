@@ -14,3 +14,6 @@ permalink: /projects.html/
 
 # Projects
 ## Hindi App
+![Main](../assets/img/mainscreen.png "Hindi App home screen")
+![Numbers](../assets/img/numbers.png "Hindi App numbers screen")
+![Family](../assets/img/family.png "Hindi App family screen")
