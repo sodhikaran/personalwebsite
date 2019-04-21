@@ -14,10 +14,12 @@ permalink: /projects
 
 # Projects
 ## Hindi App
-![Main](../assets/img/mainscreen.png "Hindi App home screen")
+![Main](../assets/img/hindiapp.png "Hindi App home screen")
 ![Family](../assets/img/family.png "Hindi App family screen")
 
 ## Meal Planner App
+![Main2](../assets/img/mainscreen.png "Meal Planner App home screen")
+![Buttons](../assets/img/family.png "Meal Planner App Functions")
 
 ## Photoshop
 ![America](../assets/img/america.jpg "America")
