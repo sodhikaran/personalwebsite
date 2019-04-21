@@ -16,3 +16,8 @@ permalink: /projects.html/
 ## Hindi App
 ![Main](../assets/img/mainscreen.png "Hindi App home screen")
 ![Family](../assets/img/family.png "Hindi App family screen")
+
+## Photoshop
+![America](../assets/img/america.jpg "America")
+![California](../assets/img/california.jpg "California")
+![Self](../assets/img/self.jpg "Self")
