@@ -19,7 +19,7 @@ permalink: /projects
 
 ## Meal Planner App
 ![Main2](../assets/img/mainscreen.png "Meal Planner App home screen")
-![Buttons](../assets/img/family.png "Meal Planner App Functions")
+![Buttons](../assets/img/buttons.png "Meal Planner App Functions")
 
 ## Photoshop
 ![America](../assets/img/america.jpg "America")
