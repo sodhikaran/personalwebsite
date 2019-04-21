@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Awards
-permalink: /awards.html/
+permalink: /awards/
 
 ---
 
