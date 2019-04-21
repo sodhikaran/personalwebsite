@@ -17,6 +17,8 @@ permalink: /projects
 ![Main](../assets/img/mainscreen.png "Hindi App home screen")
 ![Family](../assets/img/family.png "Hindi App family screen")
 
+## Meal Planner App
+
 ## Photoshop
 ![America](../assets/img/america.jpg "America")
 ![California](../assets/img/california.jpg "California")
