@@ -17,7 +17,7 @@ permalink: /projects
 ![Main](../assets/img/hindiapp.png "Hindi App home screen")
 ![Family](../assets/img/family.png "Hindi App family screen")
 
-## Meal Planner App
+## [Meal Planner App](https://studio.code.org/projects/applab/-yrYBomLimJkGkKy0VIbaX-IIvrsLDyaAQFnsII0DPE)
 ![Main2](../assets/img/mainscreen.png "Meal Planner App home screen")
 ![Buttons](../assets/img/buttons.png "Meal Planner App Functions")
 
