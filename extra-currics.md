@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Extracurriculars
-permalink: /extracurriculars/
+permalink: /extracurriculars
 
 ---
 
