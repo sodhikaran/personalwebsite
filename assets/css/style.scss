@@ -4,9 +4,6 @@
 @import "{{ site.theme }}";
 /* Applies to the entire body of the HTML document (except where overridden by more specific
 selectors). */
-<head>
-    <link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Tangerine">
-  </head>
 body {
   margin: 25px;
   background-color: rgb(240,240,240);
