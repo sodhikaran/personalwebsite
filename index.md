@@ -11,4 +11,4 @@ layout: default
 
 # About Me
 
-I am a High School senior at Dublin Jerome High School who is planning on majoring in Computer Science at the University of Illinois Urbana-Champaign (UIUC). My interests include cybersecurity, machine learning, and app development.
+I am a freshman at the University of Illinois Urbana-Champaign (UIUC) who is majoring in Computer Science. My interests include cybersecurity, machine learning, and app development.
